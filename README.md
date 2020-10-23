@@ -5,3 +5,6 @@
 ### fintech repository
 ---
 Random text
+```python
+print("Hello")
+```
