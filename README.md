@@ -5,6 +5,7 @@
 ### fintech repository
 ---
 Random text
-```python
+```javascript
 print("Hello")
+document.querySelector('NAV');
 ```
